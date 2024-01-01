@@ -1,0 +1,33 @@
+
+#square{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    transition: wight 2s height 2s;
+}
+#square:hover{
+    width: 200px;
+    height: 200px;
+}
+#circle{
+    background: #456BD9;
+    border: 0.1875em solid #0F1C3F;
+    border-radius: 50%;
+    height: 5em;
+    width: 5em;
+}
+#circle:hover{
+    height: 8em;
+    width: 8em;
+}
+#cirare{
+    width: 100px;
+    height:100px;
+    border: 0.1875em solid #0F1C3F;
+    border-radius: 20%;
+    background: #9eb4f1;
+}
+#circrare:hover{
+    width: 200px;
+    height:200px;
+}

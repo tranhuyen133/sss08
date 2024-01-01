@@ -1,0 +1,10 @@
+#polaroid{
+    width: 100px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 5px 10px 0 rgba(0, 0, 0, 0.19);
+    text-align: left;
+    border-style: double;
+}
+#title{
+    padding: 5px;
+    text-align: right;
+}
